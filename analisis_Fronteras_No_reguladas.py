@@ -6,7 +6,6 @@ Created on Wed May 18 14:54:02 2022
 """
 
 import pandas as pd
-from sqlalchemy import create_engine
 import numpy as np
 import win32com.client
 import conexion
